@@ -16,7 +16,7 @@ Para el monitoreo de la **Meta 3**, conocida como la Meta del **30x30**, que Cos
 En base a los mapas de los grupos funcionales de ecosistemas globales elaborados por Keith et al. 2023 (<https://zenodo.org/records/10081251>), se generaron archivos raster para aquellos grupos presentes en Costa Rica (CRTM05), mismas que estan disponibles en este sitio. Para determinar cuáles grupos funcioales de ecosistemas están representados en Costa Rica, se utilizó el sitio web oficial (<https://global-ecosystems.org/>), realizando una busqueda por área, seleccionando Costa Rica como "región". 
 
 De momento, solo están disponibles los grupos de ecosistemas terrestres, en la carpeta **CR_ambito_terrestre**, que corresponden a los siguientes grupos funcionales de ecosistemas:
-<T1.1Tropical/Subtropical lowland rainforests>
+<ul/T1.1Tropical/Subtropical lowland rainforests>
 <T1.2Tropical/Subtropical dry forests and thickets>
 T1.3Tropical/Subtropical montane rainforests
 T3.4Young rocky pavements, lava flows and screes
