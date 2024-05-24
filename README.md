@@ -13,4 +13,13 @@ Para el monitoreo de la **Meta 3**, conocida como la Meta del **30x30**, que Cos
 
 ## Mapas de los grupos funcionales de ecosistemas para Costa Rica
 
+En base a los mapas de los grupos funcionales de ecosistemas globales elaborados por Keith et al. 2023 (DOI 10.5281/zenodo.3546513. ](https://zenodo.org/records/10081251), se cortaron las capas para aquellos grupos presentes en Costa Rica, mismas que estan disponibles en este sitio. Para determinar cuáles grupos funcioales de ecosistemas están representados en Costa Rica, se utilizó el sitio web oficial (<https://global-ecosystems.org/>), realizando una busqueda por área, seleccionando Costa Rica como "región". 
+
+De momento, solo están disponibles los grupos de ecosistemas terrestres, en la carpeta **CR_ambito_terrestre**, pero pronto estára disponible el ambito de agua dulce. 
+
+## Uso de las capas
+
+Es importante revisar con detalle el documento Tipología Global de Ecosistemas 2.0. Perfiles descriptivos de los biomas y grupos funcionales de ecosistemas (<https://doi.org/10.2305/IUCN.CH.2020.13.en>), así como la publicación de Keith et al. 2023 (DOI 10.5281/zenodo.3546513. ](https://zenodo.org/records/10081251), para enteder como se definieron cada nivel del sistema jerarquico, y cuáles son las limitaciones de las capas originales. 
+Es responsabilidad de cada usuario, hacer uso de las capas de forma adecuada, así como reconocer el origen de las mismas. 
+
 
