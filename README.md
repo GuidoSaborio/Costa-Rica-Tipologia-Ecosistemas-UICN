@@ -18,14 +18,14 @@ En base a los mapas de los grupos funcionales de ecosistemas globales elaborados
 De momento, solo están disponibles los grupos de ecosistemas terrestres, en la carpeta **CR_ambito_terrestre**, que corresponden a los siguientes grupos funcionales de ecosistemas:
 1. T1.1Tropical/Subtropical lowland rainforests
 2. T1.2Tropical/Subtropical dry forests and thickets
-*T1.3Tropical/Subtropical montane rainforests
-*T3.4Young rocky pavements, lava flows and screes
-*T6.5Tropical alpine grasslands and herb fields
-*T7.1Annual croplands
-*T7.2Sown pastures and fields
-*T7.3Plantations
-*T7.4Urban and industrial ecosystems
-*T7.5Derived semi-natural pastures and old fields
+3. T1.3Tropical/Subtropical montane rainforests
+4. T3.4Young rocky pavements, lava flows and screes
+5. T6.5Tropical alpine grasslands and herb fields
+6. T7.1Annual croplands
+7. T7.2Sown pastures and fields
+8. T7.3Plantations
+9. T7.4Urban and industrial ecosystems
+10. T7.5Derived semi-natural pastures and old fields
 
 ## Uso de las capas
 
