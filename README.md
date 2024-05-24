@@ -31,5 +31,7 @@ T7.5Derived semi-natural pastures and old fields
 
 Es **responsabilidad de cada usuario** revisar con detalle el documento Tipología Global de Ecosistemas 2.0. Perfiles descriptivos de los biomas y grupos funcionales de ecosistemas (<https://doi.org/10.2305/IUCN.CH.2020.13.en>), para enteder como se define cada nivel del sistema jerarquico, así como la publicación de Keith et al. 2023 (<https://zenodo.org/records/10081251>), para comprender las limitaciones de las capas originales.
 
-![image](https://github.com/GuidoSaborio/Costa-Rica-Tipologia-Ecosistemas-UICN/assets/60102773/52a0b279-5e19-4ba7-aa68-f9c51f20e850)
+Si no está familiarizado con el uso de GitHub, **para descargar los archivos** debe ingresar en la carpeta CR_ambito_terrestre, y dar doble click en el archivo que desea descargar. Una vez que hace esto, en la esquina superior derecha, le aparece la opción para descargar el archivo.
+![image](https://github.com/GuidoSaborio/Costa-Rica-Tipologia-Ecosistemas-UICN/assets/60102773/5a80626c-b64c-46f7-b2c1-aa42389ebd71)
+
 
