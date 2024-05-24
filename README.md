@@ -13,9 +13,19 @@ Para el monitoreo de la **Meta 3**, conocida como la Meta del **30x30**, que Cos
 
 ## Mapas de los grupos funcionales de ecosistemas para Costa Rica
 
-En base a los mapas de los grupos funcionales de ecosistemas globales elaborados por Keith et al. 2023 (<https://zenodo.org/records/10081251>), se cortaron las capas para aquellos grupos presentes en Costa Rica, mismas que estan disponibles en este sitio. Para determinar cuáles grupos funcioales de ecosistemas están representados en Costa Rica, se utilizó el sitio web oficial (<https://global-ecosystems.org/>), realizando una busqueda por área, seleccionando Costa Rica como "región". 
+En base a los mapas de los grupos funcionales de ecosistemas globales elaborados por Keith et al. 2023 (<https://zenodo.org/records/10081251>), se generaron archivos raster para aquellos grupos presentes en Costa Rica (CRTM05), mismas que estan disponibles en este sitio. Para determinar cuáles grupos funcioales de ecosistemas están representados en Costa Rica, se utilizó el sitio web oficial (<https://global-ecosystems.org/>), realizando una busqueda por área, seleccionando Costa Rica como "región". 
 
-De momento, solo están disponibles los grupos de ecosistemas terrestres, en la carpeta **CR_ambito_terrestre**, pero pronto estára disponible el ambito de agua dulce. 
+De momento, solo están disponibles los grupos de ecosistemas terrestres, en la carpeta **CR_ambito_terrestre**, que corresponden a los siguientes grupos funcionales de ecosistemas:
+T1.1Tropical/Subtropical lowland rainforests
+T1.2Tropical/Subtropical dry forests and thickets
+T1.3Tropical/Subtropical montane rainforests
+T3.4Young rocky pavements, lava flows and screes
+T6.5Tropical alpine grasslands and herb fields
+T7.1Annual croplands
+T7.2Sown pastures and fields
+T7.3Plantations
+T7.4Urban and industrial ecosystems
+T7.5Derived semi-natural pastures and old fields
 
 ## Uso de las capas
 
